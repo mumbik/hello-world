@@ -1,2 +1,2 @@
 # hello-world
-My first oage of Github
+My first page of Github
